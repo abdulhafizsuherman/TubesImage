@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <item>
+        <bitmap android:src="@drawable/logo"
+            android:gravity="center"
+            tools:ignore="ResourceCycle" />
+    </item>
+</selector>

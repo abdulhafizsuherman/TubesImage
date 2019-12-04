@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745593553870",
+    "firebase_url": "https://imagetrans-4p15.firebaseio.com",
+    "project_id": "imagetrans-4p15",
+    "storage_bucket": "imagetrans-4p15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745593553870:android:eddc57c851dc4d028d619f",
+        "android_client_info": {
+          "package_name": "com.d.tubesimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745593553870-fpucegj9gi32jsjh9mah4kj8q4f7keie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.d.tubesimage",
+            "certificate_hash": "0d3c2c165b84f2d862dc6f97ef89e767941bcf8c"
+          }
+        },
+        {
+          "client_id": "745593553870-9ufeq0i8k7apku89nota67n319mghjp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb73e9dUmzD6a0U074Bhkhtm6WxGSEJa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745593553870-9ufeq0i8k7apku89nota67n319mghjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
